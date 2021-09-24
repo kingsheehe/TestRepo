@@ -1,0 +1,15 @@
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojAssemblyReference.cache
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\MainWindow.g.cs
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\App.g.cs
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest_MarkupCompile.cache
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest_MarkupCompile.lref
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\MainWindow.baml
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.g.resources
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.Properties.Resources.resources
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.GenerateResource.cache
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
+C:\Users\mshee\TestRepo\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
